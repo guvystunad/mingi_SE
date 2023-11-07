@@ -1,0 +1,26 @@
+td.nimi {
+    text-align: left;
+}
+
+td.hind {
+    text-align: right;
+}
+
+ table {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+#sisu {
+    display: flex;
+}
+ #pool {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+ }
+
+ h1 {
+    text-align: center;
+ }
