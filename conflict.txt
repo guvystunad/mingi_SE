@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+minu versioon on parem !!!!!!
+=======
 mindagi mindagi - lisatud anna poolt
 ......
 veel midagi
+>>>>>>> 81e5ff05e4efc1031d9ab48771f1a287caa10965
